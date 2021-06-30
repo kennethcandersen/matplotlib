@@ -6,20 +6,20 @@ The project utilized Python, Pandas in Jupyter Notebook, and Matplotlib to visua
 
 CONCLUSIONS
   
-  ONLY CAPOMULINE AND RAMICANE SEEM EFFECTIVE - AT FIRST GLANCE. 
+1. ONLY CAPOMULINE AND RAMICANE SEEM EFFECTIVE - AT FIRST GLANCE. 
 
-    Figuring that all mice started treatment with tumor sizes of 45, then only 2 drugs finished the study with average tumor size less than 45: Capomuline and Ramicane.
+Figuring that all mice started treatment with tumor sizes of 45, then only 2 drugs finished the study with average tumor size less than 45: Capomuline and Ramicane.
 
-  VERY STRONG CORRELATION COEFFICIENT OF .88 BETWEEN MOUSE WEIGHT AND FINAL TUMOR VOLUME
+2. VERY STRONG CORRELATION COEFFICIENT OF .88 BETWEEN MOUSE WEIGHT AND FINAL TUMOR VOLUME
 
-    All mice started the study with tumor volume at 45. The the weight of thie mice mouse could have had an influence on final tumor volume.
+All mice started the study with tumor volume at 45. The the weight of thie mice mouse could have had an influence on final tumor volume.
 
-  WTHE DATA NEEDS TO BE ANALYZE AGAIN AND CONTROLLED FOR MOUSE WEIGHT
+3. THE DATA NEEDS TO BE ANALYZE AGAIN AND CONTROLLED FOR MOUSE WEIGHT
 
-    A hypothesis could be that the two drugs that seemed to be successful happened to have a disproportionate number of light mice in their subset.
+A hypothesis could be that the two drugs that seemed to be successful happened to have a disproportionate number of light mice in their subset.
 
-    Mice did not seem to change weight during the study. The average weight for the successful drugs was 20 grams, versus 27 grams for the unsuccessful drugs. Therefore, a
-    hypothesis could be that a very large percentage of success count be attibuted to testing on lighter mice. Again, this is assuming that mouse weight did not change during the
-    duration of the study. Further study is recommended to control for mouse weight.
+Mice did not seem to change weight during the study. The average weight for the successful drugs was 20 grams, versus 27 grams for the unsuccessful drugs. Therefore, a
+hypothesis could be that a very large percentage of success count be attibuted to testing on lighter mice. Again, this is assuming that mouse weight did not change during the
+duration of the study. Further study is recommended to control for mouse weight.
 
 
