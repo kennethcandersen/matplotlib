@@ -2,9 +2,9 @@
  
  <table style="width:100%">
   <tr valign="top">
-    <th><img height="300" alt="Correlation Scatter Chart" src="https://github.com/kennethcandersen/pharmaceutical-effectiveness-analysis/blob/main/chart-exports/correlation_scatter_chart.png"></th>
-    <th><img height="300" alt="Box Plot" src="https://github.com/kennethcandersen/pharmaceutical-effectiveness-analysis/blob/main/chart-exports/box-plots.png"></th>
-    <th><img height="300" alt="Bar Chart With Code" src="https://github.com/kennethcandersen/pharmaceutical-effectiveness-analysis/blob/main/chart-exports/bar-chart.png"></th>
+    <th><img height="200" alt="Correlation Scatter Chart" src="https://github.com/kennethcandersen/pharmaceutical-effectiveness-analysis/blob/main/chart-exports/correlation_scatter_chart.png"></th>
+    <th><img height="200" alt="Box Plot" src="https://github.com/kennethcandersen/pharmaceutical-effectiveness-analysis/blob/main/chart-exports/box-plots.png"></th>
+    <th><img height="200" alt="Bar Chart With Code" src="https://github.com/kennethcandersen/pharmaceutical-effectiveness-analysis/blob/main/chart-exports/bar-chart.png"></th>
   </tr>
 </table> 
 
