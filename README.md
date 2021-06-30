@@ -9,6 +9,7 @@
 </table> 
 
 **EXECUTIVE SUMMARY**
+
 249 mice received cancer treatment over 45 days from 10 different trial drugs. The mission was to analyze results from observations and determine the relative success of one drug (Capomulin) to reduce tumor sizes, compared to the other 9 competitors. 
 
 The project utilized Python, Pandas in Jupyter Notebook, and Matplotlib to visualize the data. 
